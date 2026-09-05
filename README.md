@@ -2,10 +2,10 @@
 
 <!-- Animated typing header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Naoufal;AI+%2F+Engineering+Student;Python+%7C+ML+%7C+3D+%7C+Roblox+Dev;Welcome+to+my+profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=E50914&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Naoufal;AI+%2F+Engineering+Student;Python+%7C+ML+%7C+3D+%7C+Roblox+Dev;Welcome+to+my+profile" alt="Typing SVG" />
 </a>
 
-![Neon Divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:6a00f4,100:39FF14&height=120&section=header)
+![Divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:E50914,100:ffffff&height=120&section=header)
 
 </div>
 
@@ -22,7 +22,7 @@ status: "> compiling_future.exe"
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=iiizex&color=39FF14&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=iiizex&color=E50914&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -32,9 +32,9 @@ status: "> compiling_future.exe"
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-.iizex-6a00f4?style=for-the-badge&logo=discord&logoColor=39FF14&labelColor=0d0d0d)](https://discord.com/users/)
-[![Email](https://img.shields.io/badge/Email-naoufalelkoraychy2026%40gmail.com-6a00f4?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=0d0d0d)](mailto:naoufalelkoraychy2026@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-iiizex-6a00f4?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=0d0d0d)](https://github.com/iiizex)
+[![Discord](https://img.shields.io/badge/Discord-.iizex-E50914?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=0d0d0d)](https://discord.com/users/)
+[![Email](https://img.shields.io/badge/Email-naoufalelkoraychy2026%40gmail.com-E50914?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0d0d0d)](mailto:naoufalelkoraychy2026@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-iiizex-E50914?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d0d0d)](https://github.com/iiizex)
 
 </div>
 
@@ -46,12 +46,12 @@ status: "> compiling_future.exe"
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=39FF14)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d0d0d?style=for-the-badge&logo=scikit-learn&logoColor=6a00f4)
-![Blender](https://img.shields.io/badge/Blender-0d0d0d?style=for-the-badge&logo=blender&logoColor=39FF14)
-![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-0d0d0d?style=for-the-badge&logo=roblox&logoColor=6a00f4)
-![Lua](https://img.shields.io/badge/Luau%2FLua-0d0d0d?style=for-the-badge&logo=lua&logoColor=39FF14)
-![Cloud](https://img.shields.io/badge/Cloud_Computing-0d0d0d?style=for-the-badge&logo=icloud&logoColor=6a00f4)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=E50914)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d0d0d?style=for-the-badge&logo=scikit-learn&logoColor=ffffff)
+![Blender](https://img.shields.io/badge/Blender-0d0d0d?style=for-the-badge&logo=blender&logoColor=E50914)
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-0d0d0d?style=for-the-badge&logo=roblox&logoColor=ffffff)
+![Lua](https://img.shields.io/badge/Luau%2FLua-0d0d0d?style=for-the-badge&logo=lua&logoColor=E50914)
+![Cloud](https://img.shields.io/badge/Cloud_Computing-0d0d0d?style=for-the-badge&logo=icloud&logoColor=ffffff)
 
 </div>
 
@@ -86,14 +86,6 @@ Something's cooking...
 
 ---
 
-<div align="center">
-
-![Snake animation](https://github.com/iiizex/iiizex/blob/output/github-contribution-grid-snake-dark.svg)
-
-<sub>⚠️ The snake animation above needs a one-time GitHub Actions setup in your profile repo — ask me if you want that workflow file too.</sub>
-
-</div>
-
-![Neon Divider](https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:6a00f4,100:0d0d0d&height=100&section=footer)
+![Divider](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:E50914,100:0d0d0d&height=100&section=footer)
 
 </div>
