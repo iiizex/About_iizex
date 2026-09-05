@@ -32,13 +32,11 @@ status: "> compiling_future.exe"
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-.iizex-E50914?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=0d0d0d)](https://discord.com/users/)
+[![Discord](https://img.shields.io/badge/Discord-discord.gg%2FW8cTeDdBP3-E50914?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=0d0d0d)](https://discord.gg/W8cTeDdBP3)
 [![Email](https://img.shields.io/badge/Email-naoufalelkoraychy2026%40gmail.com-E50914?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0d0d0d)](mailto:naoufalelkoraychy2026@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-iiizex-E50914?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d0d0d)](https://github.com/iiizex)
 
 </div>
-
-> Note: Discord badges can't deep-link to a username directly — visitors will need to add `.iizex` manually in Discord. If you have a server invite link instead, I can wire the badge straight to it.
 
 ---
 
