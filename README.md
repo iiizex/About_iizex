@@ -80,8 +80,6 @@ Something's cooking...
 </tr>
 </table>
 
-<div align="center"><sub>This section updates as new builds ship — tell me what to drop in here anytime.</sub></div>
-
 ---
 
 ![Divider](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:E50914,100:0d0d0d&height=100&section=footer)
