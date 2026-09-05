@@ -13,7 +13,7 @@
 
 ```yaml
 name: Naoufal
-role: CPI Engineering Student @ SUPTECH
+role: CPI Engineering Student
 focus: Artificial Intelligence
 stack: [Python, Scikit-Learn, Cloud Computing, Blender / 3D Modeling]
 currently_building: Roblox game systems + 3D animation projects
@@ -83,19 +83,6 @@ Something's cooking...
 </table>
 
 <div align="center"><sub>This section updates as new builds ship — tell me what to drop in here anytime.</sub></div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=iiizex&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=39FF14&icon_color=6a00f4&text_color=c9c9c9" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iiizex&theme=radical&hide_border=true&background=0d0d0d&ring=39FF14&fire=6a00f4&currStreakLabel=39FF14" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiizex&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=39FF14&text_color=c9c9c9" alt="Top Languages" height="165"/>
-
-</div>
 
 ---
 
