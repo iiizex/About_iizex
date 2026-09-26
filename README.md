@@ -9,7 +9,7 @@
 
 </div>
 
-## ⚡ About Me
+##  About Me
 
 ```yaml
 name: Naoufal
@@ -40,7 +40,7 @@ status: "> compiling_future.exe"
 
 ---
 
-## 🧠 Tech Arsenal
+##  Tech Arsenal
 
 <div align="center">
 
@@ -55,13 +55,13 @@ status: "> compiling_future.exe"
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⛓️ SPC Coin — SUPTECH Blockchain Project
+###  SPC Coin — SUPTECH Blockchain Project
 **Beta live — web app**
 A localized campus cryptocurrency ecosystem built from scratch: Firebase Auth restricted to institutional Gmail accounts, a Miners Hall & Explorer to track network activity, fees and nonces, Shop & Transaction Hubs for simulated micro-transactions, and an AI chatbot built with AI Studio. Roadmap includes a full mobile app.
 `Firebase` `Blockchain` `AI Integration` `UI/UX`
@@ -70,7 +70,7 @@ A localized campus cryptocurrency ecosystem built from scratch: Firebase Auth re
 </td>
 <td width="50%" valign="top">
 
-### 🚗 MATLAB/Simulink — Vehicle Dynamics
+###  MATLAB/Simulink — Vehicle Dynamics
 **Lab report — MATLAB & Simulink**
 Modeled vehicle speed as a function of mass and motor force using MATLAB scripting and a Simulink block diagram, then analyzed the response on a Scope across four scenarios (M = 3500 kg / 2000 kg, F = 3000 N / 10000 N).
 `MATLAB` `Simulink` `Systems Modeling`
@@ -80,7 +80,7 @@ Modeled vehicle speed as a function of mass and motor force using MATLAB scripti
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ FabLab — Simulink Electrical Circuit
+###  FabLab — Simulink Electrical Circuit
 **Lab report — MATLAB & Simulink**
 Built and simulated an electrical circuit in Simulink with a voltage source, passive components (resistor, inductor, capacitor), and measurement instruments (ammeter, voltmeter), observing signal behavior via the Scope block.
 `Simulink` `Electrical Circuits` `Signal Analysis`
@@ -88,7 +88,7 @@ Built and simulated an electrical circuit in Simulink with a voltage source, pas
 </td>
 <td width="50%" valign="top">
 
-### 🗣️ Live Voice Translator — Discord Bot
+###  Live Voice Translator — Discord Bot
 **Discord bot — Python**
 A voice-channel bot that listens to chat, auto-detects the message language (Spanish/English), translates it with Google Translate, and speaks the translation aloud in the voice channel using text-to-speech.
 `Python` `discord.py` `Google Translate` `TTS`
@@ -98,7 +98,7 @@ A voice-channel bot that listens to chat, auto-detects the message language (Spa
 <tr>
 <td width="50%" valign="top">
 
-### 🔫 3D-Printed Pistol Model
+###  3D-Printed Pistol Model
 **CAD design — SolidWorks**
 Designed a 3D-printable pistol model in SolidWorks as a CAD/mechanical design exercise.
 `SolidWorks` `CAD` `3D Modeling`
@@ -108,7 +108,7 @@ Designed a 3D-printable pistol model in SolidWorks as a CAD/mechanical design ex
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Discord Bots & Automation Tools
+###  Discord Bots & Automation Tools
 **External projects — Python**
 Built a range of Discord bots and task-automation tools for various servers and personal use cases.
 `Python` `discord.py` `Automation`
@@ -118,7 +118,7 @@ Built a range of Discord bots and task-automation tools for various servers and 
 <tr>
 <td width="50%" valign="top">
 
-### 🛠️ CAO/DAO — SolidWorks Practical
+###  CAO/DAO — SolidWorks Practical
 **Lab report — SolidWorks**
 Hands-on practical learning SolidWorks fundamentals: modeling 3D parts from 2D sketches, assembling components, and running basic simulations to validate part behavior before fabrication.
 `SolidWorks` `CAO/DAO` `3D Modeling` `Simulation`
@@ -128,7 +128,7 @@ Hands-on practical learning SolidWorks fundamentals: modeling 3D parts from 2D s
 <tr>
 <td width="50%" valign="top">
 
-### 💓 ECG Simulation — Proteus
+###  ECG Simulation — Proteus
 **Electronics simulation — Proteus**
 Designed and simulated an ECG (electrocardiogram) circuit in Proteus to model and analyze the signal.
 `Proteus` `Electronics` `Circuit Simulation`
@@ -138,7 +138,7 @@ Designed and simulated an ECG (electrocardiogram) circuit in Proteus to model an
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 Multi-Game & Quiz App
+###  Multi-Game & Quiz App
 **Desktop app — Python (Tkinter)**
 A desktop app with user login/registration, a category-based quiz (Sport, Religion, General Culture, Python), four minigames (Tic-Tac-Toe, Math Game, Memory Matching, Reaction Speed), and per-user score history tracking.
 `Python` `Tkinter` `GUI` `Game Dev`
@@ -147,7 +147,7 @@ A desktop app with user login/registration, a category-based quiz (Sport, Religi
 </tr>
 </table>
 
-<div align="center"><sub>This section updates as new builds ship — tell me what to drop in here anytime.</sub></div>
+<div align="center"><sub> Tell me in private,what do you want to see next...?</sub></div>
 
 ---
 
