@@ -9,7 +9,7 @@
 
 </div>
 
-## ⚡ About Me
+##  About Me
 
 ```yaml
 name: Naoufal
@@ -40,7 +40,7 @@ status: "> compiling_future.exe"
 
 ---
 
-## 🧠 Tech Arsenal
+##  Tech Arsenal
 
 <div align="center">
 
@@ -55,30 +55,49 @@ status: "> compiling_future.exe"
 
 ---
 
-## 🚀 Future Projects
+##  Projects
 
 <table>
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="50%" valign="top">
 
-### 🔮 Coming Soon
-Something's cooking...
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 🔮 Coming Soon
-Something's cooking...
+###  SPC Coin — SUPTECH Blockchain Project
+**Beta live — web app**
+A localized campus cryptocurrency ecosystem built from scratch: Firebase Auth restricted to institutional Gmail accounts, a Miners Hall & Explorer to track network activity, fees and nonces, Shop & Transaction Hubs for simulated micro-transactions, and an AI chatbot built with AI Studio. Roadmap includes a full mobile app.
+`Firebase` `Blockchain` `AI Integration` `UI/UX`
+🔗 [Try it live](https://bit.ly/4wlPOED)
 
 </td>
-<td width="33%" align="center" valign="top">
+<td width="50%" valign="top">
 
-### 🔮 Coming Soon
-Something's cooking...
+###  MATLAB/Simulink — Vehicle Dynamics
+**Lab report — MATLAB & Simulink**
+Modeled vehicle speed as a function of mass and motor force using MATLAB scripting and a Simulink block diagram, then analyzed the response on a Scope across four scenarios (M = 3500 kg / 2000 kg, F = 3000 N / 10000 N).
+`MATLAB` `Simulink` `Systems Modeling`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+###  FabLab — Simulink Electrical Circuit
+**Lab report — MATLAB & Simulink**
+Built and simulated an electrical circuit in Simulink with a voltage source, passive components (resistor, inductor, capacitor), and measurement instruments (ammeter, voltmeter), observing signal behavior via the Scope block.
+`Simulink` `Electrical Circuits` `Signal Analysis`
+
+</td>
+<td width="50%" valign="top">
+
+###  Live Voice Translator — Discord Bot
+**Discord bot — Python**
+A voice-channel bot that listens to chat, auto-detects the message language (Spanish/English), translates it with Google Translate, and speaks the translation aloud in the voice channel using text-to-speech.
+`Python` `discord.py` `Google Translate` `TTS`
 
 </td>
 </tr>
 </table>
+
+<div align="center"><sub>This section updates as new builds ship — tell me what to drop in here anytime.</sub></div>
 
 ---
 
